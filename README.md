@@ -1,1 +1,1 @@
-# wedding-website-vanilla
+# wedding-website-agency-vanilla
